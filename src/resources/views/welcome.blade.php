@@ -143,7 +143,7 @@ https://templatemo.com/tm-578-first-portfolio
 
                                 <p>
                                 Saya adalah seorang developer yang sedang belajar dan mengembangkan skill di bidang web development. 
-                                Saya tertarik dengan teknologi, khususnya dalam membangun website menggunakan Laravel, Docker, dan berbagai tools modern lainnya.
+                                
                                 </p>
 
                                 <p>
@@ -160,72 +160,73 @@ https://templatemo.com/tm-578-first-portfolio
             </section>
 
             <section class="featured section-padding">
-                <div class="container">
+    <div class="container">
+        <div class="row">
+
+            <!-- PANEL KIRI (INFO) -->
+            <div class="col-lg-6 col-12">
+                <div class="profile-thumb">
+                    <div class="profile-title">
+                        <h4 class="mb-0">
+    <i class="bi-person-circle me-2"></i> Informasi
+</h4>
+                    </div>
+
+                    <div class="profile-body">
+                        <p>
+    <i class="bi-person me-2"></i>
+    <span class="profile-small-title">Nama</span> 
+    <span>Wilson Fabian</span>
+</p>
+
+<p>
+    <i class="bi-calendar me-2"></i>
+    <span class="profile-small-title">Umur</span> 
+    <span>19 Tahun</span>
+</p>
+
+<p>
+    <i class="bi-controller me-2"></i>
+    <span class="profile-small-title">Hobby</span> 
+    <span>Ngoding</span>
+</p>
+
+<p>
+    <i class="bi-person-badge me-2"></i>
+    <span class="profile-small-title">Status</span> 
+    <span>Mahasiswa</span>
+</p>
+
+<p>
+    <i class="bi-envelope me-2"></i>
+    <span class="profile-small-title">Email</span> 
+    <span>wilsonfabian@gmail.com</span>
+</p>
+
+<p>
+    <i class="bi-telephone me-2"></i>
+    <span class="profile-small-title">Telepon</span> 
+    <span>0812 345 6789</span>
+</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- PANEL KANAN (SKILL / DATA REAL) -->
+            <div class="col-lg-6 col-12 mt-5 mt-lg-0">
+                <div class="about-thumb">
                     <div class="row">
 
-                        <div class="col-lg-6 col-12">
-                            <div class="profile-thumb">
-                                <div class="profile-title">
-                                    <h4 class="mb-0">Information</h4>
-                                </div>
-
-                                <div class="profile-body">
-                                    <p>
-                                        <span class="profile-small-title">Name</span> 
-                                        <span>Wilson Fabian</span>
-                                    </p>
-
-                                    <p>
-                                        <span class="profile-small-title">Birthday</span> 
-                                        <span>30 Januari 2007</span>
-                                    </p>
-
-                                    <p>
-                                        <span class="profile-small-title">Phone</span> 
-                                         <span><a href="tel: 305-240-9671">0812 345 6789</a></span>
-                                    </p>
-
-                                    <p>
-                                        <span class="profile-small-title">Email</span> 
-                                        <span><a href="mailto:hello@josh.design">wilsonfabian@gmail.com</a></span>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-6 col-12 mt-5 mt-lg-0">
-                            <div class="about-thumb">
-                                <div class="row">
-                                    <div class="col-lg-6 col-6 featured-border-bottom py-2">
-                                        <strong class="featured-numbers">20+</strong>
-
-                                        <p class="featured-text">Years of Experiences</p>
-                                    </div>
-
-                                    <div class="col-lg-6 col-6 featured-border-start featured-border-bottom ps-5 py-2">
-                                        <strong class="featured-numbers">245</strong>
-
-                                        <p class="featured-text">Happy Customers</p>
-                                    </div>
-
-                                    <div class="col-lg-6 col-6 pt-4">
-                                        <strong class="featured-numbers">640</strong>
-
-                                        <p class="featured-text">Project Finished</p>
-                                    </div>
-
-                                    <div class="col-lg-6 col-6 featured-border-start ps-5 pt-4">
-                                        <strong class="featured-numbers">72+</strong>
-
-                                        <p class="featured-text">Digital Awards</p>
-                                    </div>
-                                </div>
-                            </div>
+                        
                         </div>
 
                     </div>
                 </div>
-            </section>
+            </div>
+
+        </div>
+    </div>
+</section>
 
 
             <section class="clients section-padding">
