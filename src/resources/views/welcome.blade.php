@@ -168,46 +168,46 @@ https://templatemo.com/tm-578-first-portfolio
                 <div class="profile-thumb">
                     <div class="profile-title">
                         <h4 class="mb-0">
-    <i class="bi-person-circle me-2"></i> Informasi
-</h4>
+                    <i class="bi-person-circle me-2"></i> Informasi
+                </h4>
                     </div>
 
-                    <div class="profile-body">
+                        <div class="profile-body">
                         <p>
-    <i class="bi-person me-2"></i>
-    <span class="profile-small-title">Nama</span> 
-    <span>Wilson Fabian</span>
-</p>
+                            <i class="bi-person me-2"></i>
+                            <span class="profile-small-title">Nama</span> 
+                            <span>Wilson Fabian</span>
+                        </p>
 
-<p>
-    <i class="bi-calendar me-2"></i>
-    <span class="profile-small-title">Umur</span> 
-    <span>19 Tahun</span>
-</p>
+                        <p>
+                            <i class="bi-calendar me-2"></i>
+                            <span class="profile-small-title">Umur</span> 
+                            <span>19 Tahun</span>
+                        </p>
 
-<p>
-    <i class="bi-controller me-2"></i>
-    <span class="profile-small-title">Hobby</span> 
-    <span>Ngoding</span>
-</p>
+                        <p>
+                            <i class="bi-controller me-2"></i>
+                            <span class="profile-small-title">Hobby</span> 
+                            <span>Ngoding</span>
+                        </p>
 
-<p>
-    <i class="bi-person-badge me-2"></i>
-    <span class="profile-small-title">Status</span> 
-    <span>Mahasiswa</span>
-</p>
+                        <p>
+                            <i class="bi-person-badge me-2"></i>
+                            <span class="profile-small-title">Status</span> 
+                            <span>Mahasiswa</span>
+                        </p>
 
-<p>
-    <i class="bi-envelope me-2"></i>
-    <span class="profile-small-title">Email</span> 
-    <span>wilsonfabian@gmail.com</span>
-</p>
+                        <p>
+                            <i class="bi-envelope me-2"></i>
+                            <span class="profile-small-title">Email</span> 
+                            <span>wilsonfabian@gmail.com</span>
+                        </p>
 
-<p>
-    <i class="bi-telephone me-2"></i>
-    <span class="profile-small-title">Telepon</span> 
-    <span>0812 345 6789</span>
-</p>
+                <p>
+                    <i class="bi-telephone me-2"></i>
+                    <span class="profile-small-title">Telepon</span> 
+                    <span>0812 345 6789</span>
+                </p>
                     </div>
                 </div>
             </div>
@@ -475,7 +475,7 @@ https://templatemo.com/tm-578-first-portfolio
                                     <strong class="site-footer-title d-block mb-3">About</strong>
 
                                     <p class="mb-2">
-                                        Wilson is a web developer. Feel free to get in touch with me.
+                                        halo
                               </p>
 
                                     <strong class="site-footer-title d-block mt-4 mb-3">Email</strong>
