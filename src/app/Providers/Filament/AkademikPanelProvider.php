@@ -23,8 +23,13 @@ class AkademikPanelProvider extends PanelProvider
     public function panel(Panel $panel): Panel
     {
         return $panel
+            ->default()
             ->id('akademik')
             ->path('akademik')
+            ->login(false)
+            ->spa()
+            ->passwordReset()
+            ->registration()
             ->colors([
                 'primary' => Color::Amber,
             ])

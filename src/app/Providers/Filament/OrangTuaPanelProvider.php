@@ -23,8 +23,13 @@ class OrangTuaPanelProvider extends PanelProvider
     public function panel(Panel $panel): Panel
     {
         return $panel
+            ->default()
             ->id('orangTua')
             ->path('ortu')
+            ->login(false)
+            ->spa()
+            ->passwordReset()
+             ->registration()
             ->colors([
                 'primary' => Color::Amber,
             ])

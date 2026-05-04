@@ -23,8 +23,13 @@ class AdminPanelProvider extends PanelProvider
     public function panel(Panel $panel): Panel
     {
         return $panel
+            ->default()
             ->id('admin')
             ->path('admin')
+            ->login(false)
+            ->spa()
+            ->passwordReset()
+            ->registration()
             ->colors([
                 'primary' => Color::Amber,
             ])
@@ -38,6 +43,8 @@ class AdminPanelProvider extends PanelProvider
                 Widgets\AccountWidget::class,
                 Widgets\FilamentInfoWidget::class,
             ])
+     
+                
             ->middleware([
                 EncryptCookies::class,
                 AddQueuedCookiesToResponse::class,

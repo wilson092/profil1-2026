@@ -23,8 +23,13 @@ class SiswaPanelProvider extends PanelProvider
     public function panel(Panel $panel): Panel
     {
         return $panel
+            ->default()
             ->id('siswa')
             ->path('siswa')
+            ->login(false)
+            ->spa()
+            ->passwordReset()
+             ->registration()
             ->colors([
                 'primary' => Color::Amber,
             ])
